@@ -2,7 +2,7 @@
 # usage:RRCS_cif.sh 5kvm.pdb
 #
 # Please set scripts lib which contains RRSC.py cif2pdb.py to SCRIPTS_DIR
-SCRIPTS_DIR='/Users/muwang/Documents/scripts_work_parric'
+SCRIPTS_DIR=$PWD
 
 RRSC_cif(){
 	
